@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.box {
+  height: 255px;
+  width: 255px;
+  border: 1px solid #ededed;
+  margin-bottom: 16px;
+}
+.container {
+  width: 1200px;
+}
+.body {
+  background-color: aquamarine;
+}
+.box img {
+  height: 255px;
+  width: 255px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.form-control {
+  border: 2px solid #000;
+  color: #000;
+  font-weight: bold;
+}
+.all {
+  padding: 20px;
+}
